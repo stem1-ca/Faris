@@ -1,0 +1,11 @@
+{
+  "name": "faris",
+  "version": "1.0.0",
+  "description": "Rock Paper Scissor Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "!info"
+  },
+  "author": "faris",
+  "license": "ISC"
+}
