@@ -1,0 +1,16 @@
+{
+  "name": "faris",
+  "version": "1.0.0",
+  "description": "Random Image Bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "!info"
+  },
+  "author": "faris",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "node-fetch": "^2.6.0",
+    "nodemon": "^1.19.4"
+  }
+}
