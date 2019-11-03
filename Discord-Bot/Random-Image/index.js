@@ -8,7 +8,7 @@ const discord = require("discord.js")
 const client = new discord.Client()
 const fetch = require("node-fetch")
 // Discord token
-const token = "NjQwMjE4NDg1MzE3OTU5NzEz.Xb2zog.tNcei55eK0b1UJVrOy0dJE47VhY"
+const token = "Add-Token-Here"
 
 client.on("ready", () => {
     console.log("login")
